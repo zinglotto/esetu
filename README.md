@@ -39,3 +39,35 @@ We welcome contributors from all backgrounds and skill levels. Whether you're a 
 2. **Clone Your Fork**  
    ```bash
    git clone https://github.com/your-username/esetu.git
+## Make Your Changes
+
+Implement new features, fix bugs, or improve the documentation.
+
+## Submit a Pull Request
+
+Once your changes are ready, submit a pull request for review.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Backend:** Node.js, PHP  
+- **Database:** MySQL  
+- **Version Control:** Git, GitHub  
+
+---
+
+## 📧 Contact
+
+For questions, suggestions, or support, feel free to reach out:
+
+- **Email:** [support@esetu.org](mailto:support@esetu.org)  
+- **Twitter:** [@eSeTU](https://twitter.com/esetu)  
+- **Website:** [www.esetu.org](https://www.esetu.org)  
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
